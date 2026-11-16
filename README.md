@@ -1,0 +1,2 @@
+The primary objective of this project is to create an interactive Shape Calculator that allows users to compute the area and perimeter (or circumference) of various geometric shapes through a console-based menu interface. This program aimed to demonstrate a modular, object-oriented design using key principles such as encapsulation, inheritance, polymorphism, and abstraction, while validating user inputs for accuracy and allowing users to perform multiple calculations seamlessly until they choose to exit.
+
